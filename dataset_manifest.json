@@ -1,0 +1,14 @@
+{
+  "package_version": "1.0.0",
+  "prepared_date": "2026-10-02",
+  "source_preparation_month": "2026-09",
+  "products": 14257,
+  "brands": 1701,
+  "categories": 15,
+  "products_without_brand": 169,
+  "image_binaries_included": false,
+  "products_with_recorded_image_path": 12591,
+  "products_without_image_path": 1666,
+  "database_sha256": "9851e801b512691f6c73b86f2c947af74bb334ed7053c9dcbd8395a7b0ac94d7",
+  "provenance": "Rebuilt from verified full pre-brand backup; exact-text brand normalization; no price refresh."
+}

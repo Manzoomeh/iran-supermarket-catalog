@@ -1,0 +1,1 @@
+Open catalog.html in a browser, or query catalog.sqlite. Images are excluded. Place the matching authorized image/ folder beside these files to display images. See DATA_LICENSE.md for data reuse status.
