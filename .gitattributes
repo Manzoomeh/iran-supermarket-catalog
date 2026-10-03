@@ -1,0 +1,6 @@
+# Keep LF line endings on every platform, so SHA256SUMS.txt verifies after a clone.
+* text=auto eol=lf
+*.sqlite binary
+*.png binary
+*.jpg binary
+*.zip binary

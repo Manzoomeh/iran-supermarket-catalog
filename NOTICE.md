@@ -1,7 +1,7 @@
 # Source and attribution
 
 Initiative: schema.ir. Organizer: Manzoomeh Negaran.
-Source: user-supplied locally saved Snapp Market supermarket category HTML pages, processed in September 2026. No fresh crawl was performed for this package.
+Source: locally saved Snapp Market supermarket category HTML pages, processed in September 2026. No fresh crawl was performed for this package.
 
 All product names, brand names, and trademarks remain associated with their respective owners. No endorsement or partnership is asserted.
 
